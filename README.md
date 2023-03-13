@@ -4,7 +4,7 @@ A process of data cleaning and saving results automatically in separated folders
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Loan-Classification-Prediction-Competition-Case**
-| :label: Tecnologias | scikit-learn, numpy, matplotlib, pandas, Python
+| :label: Tecnologias | Apache airflow, Python
 
 
 ![](/chuva-la.jpg#vitrinedev)
