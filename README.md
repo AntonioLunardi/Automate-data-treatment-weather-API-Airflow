@@ -3,7 +3,7 @@ A process of data cleaning and saving results automatically in separated folders
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Loan-Classification-Prediction-Competition-Case**
+| :sparkles: Nome        | **Automation of Data Treatment of Weather API**
 | :label: Tecnologias | Apache airflow, Python
 
 
